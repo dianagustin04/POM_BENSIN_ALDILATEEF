@@ -16,7 +16,7 @@ namespace POM_BENSIN_ALDILATEEF
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormMenuAdmin());
+            Application.Run(new Form1());
         }
     }
 }

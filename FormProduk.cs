@@ -30,5 +30,10 @@ namespace POM_BENSIN_ALDILATEEF
             formUbahProduk.Location = new Point(500, 225);
             formUbahProduk.Show();
         }
+
+        private void dgvProduk_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

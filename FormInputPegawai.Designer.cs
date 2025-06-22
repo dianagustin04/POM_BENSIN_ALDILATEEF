@@ -62,6 +62,7 @@
             this.cmbJabatan.Name = "cmbJabatan";
             this.cmbJabatan.Size = new System.Drawing.Size(286, 28);
             this.cmbJabatan.TabIndex = 123;
+            this.cmbJabatan.SelectedIndexChanged += new System.EventHandler(this.cmbJabatan_SelectedIndexChanged);
             // 
             // btnSimpan
             // 

@@ -31,5 +31,10 @@ namespace POM_BENSIN_ALDILATEEF
             cmbJabatan.Text = string.Empty;
             //cmbJabatan.SelectedIndex = 0;
         }
+
+        private void cmbJabatan_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
